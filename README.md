@@ -11,7 +11,7 @@ This script allows you to send multiple transactions to random recipient address
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/ademulyanaDEV/units-tx-auto.git
+   git clone https://github.com/ademulyanaDEV/units-tx-auto.git
    cd units-tx-auto
    ```
 
